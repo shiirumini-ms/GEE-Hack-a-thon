@@ -13,8 +13,8 @@ Link to the GEE scripts:
 
 - Group 1: [https://code.earthengine.google.com/ac3ddea0c65a560931f17bd9bb178136](https://code.earthengine.google.com/dccd370a77c76697c72e154966af36ab)
 - Group 2: [https://code.earthengine.google.com/d34419a235b1e84f802c7007210ba170](https://code.earthengine.google.com/64cbd05e6727618e1f570d35e39f46a8)
-- Group 3: https://code.earthengine.google.com/85d27e7b0a4c3d381ea14d45ac098cba
-- Group 4: https://code.earthengine.google.com/3f911d57652eb8ae74af9fb5f4a4c34d
+- Group 3: [https://code.earthengine.google.com/85d27e7b0a4c3d381ea14d45ac098cba](https://code.earthengine.google.com/94dfe7540c3cc910033132642728032b)
+- Group 4: [https://code.earthengine.google.com/3f911d57652eb8ae74af9fb5f4a4c34d](https://code.earthengine.google.com/0aa119eaa5c359a35fb841fecf4ba929)
 - Group 5: https://code.earthengine.google.com/8e3b174404344696b6a5c1d1c2625a22
 
 # Overarching goal
