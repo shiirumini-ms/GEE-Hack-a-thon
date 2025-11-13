@@ -80,7 +80,8 @@ _*Your maps*_
 
 
 # 2. Visualisation of the amount of forest cover loss and gain for your protected area
-```forest_tidy <- forest_tidy %>%
+```
+forest_tidy <- forest_tidy %>%
   pivot_longer(
     cols = c(loss, gain),
     names_to = "type",
@@ -93,7 +94,8 @@ ggplot(forest_tidy, aes(x = year, y = area_km2, fill = type)) +
        x = "Year", 
        y = "Area (km2)",
        fill= "Type")+
-  theme_minimal()```
+  theme_minimal()
+```
 
 __*Your text and/or figures.*__
 
