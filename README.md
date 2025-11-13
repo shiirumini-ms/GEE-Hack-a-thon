@@ -88,7 +88,12 @@ _*Your maps*_
 # 2. Visualisation of the amount of forest cover loss and gain for your protected area
 ![](https://github.com/shiirumini-ms/GEE-Hack-a-thon/blob/master/Figures/Forest%20cover%20loss%20%26%20gain.png)
 
+Figure 1. Annual forest cover loss and gain in the Pink Lake protected area between 2001 and 2016. Loss and gain are shown as separate bars for each year. Forest loss (blue) clearly exceeds forest gain (red) in every year. Some years show small pulses of forest gain, but these are insufficient to compensate for the amount of forest area lost. Deforestation pressures have been relatively consistent, with no extended periods of recovery and massive loss before 2005.
+
 ![](https://github.com/shiirumini-ms/GEE-Hack-a-thon/blob/master/Figures/Plot%202.png)
+
+Figure 2. Net forest change for each year (computed as forest gain minus forest loss). The protected are experienced a massive decrease before 2005 and did not recover in subsequent years. 
+
 __*Your text and/or figures.*__
 
 
