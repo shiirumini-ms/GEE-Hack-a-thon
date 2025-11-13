@@ -87,7 +87,7 @@ _*Your maps*_
 
 
 # 2. Visualisation of the amount of forest cover loss and gain for your protected area
-
+![](https://github.com/shiirumini-ms/GEE-Hack-a-thon/blob/master/Figures/Forest%20cover%20loss%20%26%20gain.png)
 __*Your text and/or figures.*__
 
 
