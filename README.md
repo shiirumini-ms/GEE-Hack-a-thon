@@ -33,7 +33,7 @@ _Use this document as a template to fill in as you progress through the challeng
 
 # Title
 
-_*Change of Forest cover around Pink Lake in Australia*_
+_*Change of Forest Cover around Pink Lake in Western Australia*_
 
 
 # Authors
