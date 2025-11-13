@@ -57,12 +57,12 @@ Therefore, the following research questions will be posed to investigate the los
 
 # Workflow
 
-_*It is expected that over time, due to the climate in Western Australia and the current drying event occuring that forest coverage will decline over time.*_
+_*.*_
 
 
 # Specific hypotheses and predictions
 
-_*What do you know about this protected area?  What sort of factors could influence forest cover change in this part of the world?*_
+_*It is expected that over time, due to the climate in Western Australia and the current drying event occuring that forest coverage will decline over time*_
 
 
 # Methods
