@@ -61,7 +61,7 @@ _*What do you know about this protected area?  What sort of factors could influe
 
 # Methods
 
-_*Describe your methods in brief including all of the datasets that you used with appropriate crediting/referencing/copyright for the datasets.*_
+_*We extracted dataset **forest_change_Pink_Lake** from Google Earth Engine.  *_
 
 
 # Data vis and summary methods
