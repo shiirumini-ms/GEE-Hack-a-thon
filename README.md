@@ -80,22 +80,6 @@ _*Your maps*_
 
 
 # 2. Visualisation of the amount of forest cover loss and gain for your protected area
-```
-forest_tidy <- forest_tidy %>%
-  pivot_longer(
-    cols = c(loss, gain),
-    names_to = "type",
-    values_to = "area_km2"
-  )
-
-ggplot(forest_tidy, aes(x = year, y = area_km2, fill = type)) +
-  geom_col(position = "dodge") + 
-  labs(title = "Forest cover loss and gain in Pink Lake (2001-2016)",
-       x = "Year", 
-       y = "Area (km2)",
-       fill= "Type")+
-  theme_minimal()
-```
 
 __*Your text and/or figures.*__
 
