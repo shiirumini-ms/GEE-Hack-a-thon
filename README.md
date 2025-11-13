@@ -56,8 +56,7 @@ Therefore, the following research questions will be posed to investigate the los
 
 
 # Workflow
-
-_*.*_
+![](https://github.com/shiirumini-ms/GEE-Hack-a-thon/blob/master/Figures/Workflow.png)
 
 
 # Specific hypotheses and predictions
