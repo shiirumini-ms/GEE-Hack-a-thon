@@ -93,6 +93,9 @@ _*Your maps*_
 
 **Figure 2.** Net forest change for each year (computed as forest gain minus forest loss). The protected are experienced a massive decrease before 2005 and did not recover in subsequent years. 
 
+![](https://github.com/shiirumini-ms/GEE-Hack-a-thon/blob/master/Images/Rplot.png)
+
+
 __*Your text and/or figures.*__
 
 
