@@ -31,7 +31,8 @@ _*Investigate forest cover change across protected areas.*_
 
 _Use this document as a template to fill in as you progress through the challenge._
 
-# Change of Forest Cover around Pink Lake in Western Australia
+# Title
+_*Change of Forest Cover around Pink Lake in Western Australia*_
 
 
 # Authors
