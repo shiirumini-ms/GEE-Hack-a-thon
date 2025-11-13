@@ -28,3 +28,5 @@ forest_tidy <- forest_long %>%
 
 forest_tidy <- forest_tidy %>%
   select(NAME, year, loss, gain, net_change_km2)
+
+write.csv(forest_tidy, "forest_tidy.csv")
