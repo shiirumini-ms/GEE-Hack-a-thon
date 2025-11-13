@@ -57,7 +57,7 @@ Therefore, the following research questions will be posed to investigate the los
 
 # Workflow
 
-_*Write out or draw your workflow in text here, on paper or in a ppt slide and then take a photo of that to include.*_
+_*It is expected that over time, due to the climate in Western Australia and the current drying event occuring that forest coverage will decline over time.*_
 
 
 # Specific hypotheses and predictions
