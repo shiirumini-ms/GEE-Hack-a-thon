@@ -33,13 +33,12 @@ _Use this document as a template to fill in as you progress through the challeng
 
 # Title
 
-_*Add here.*_
+_*Change of Forest cover around Pink Lake in Australia*_
 
 
 # Authors
 
-_*Add here.*_
-
+_*Mariana Heredia Gómez, Megan Long, Jamie Fielding, Hanwei Liu, Mako, Sorcha Hicks*
 
 # Research question
 __How much forest cover loss and gain has occurred in your protected area?__
