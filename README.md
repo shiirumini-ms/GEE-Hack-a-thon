@@ -38,7 +38,7 @@ _*Change of Forest Cover around Pink Lake in Western Australia*_
 
 # Authors
 
-_*Mariana Heredia Gómez, Megan Long, Jamie Fielding, Hanwei Liu, Mako, Sorcha Hicks*
+_*Mariana Heredia Gómez, Megan Long, Jamie Fielding, Hanwei Liu, Mako Shibata, Sorcha Hicks*_
 
 # Research question
 __How much forest cover loss and gain has occurred in your protected area?__
