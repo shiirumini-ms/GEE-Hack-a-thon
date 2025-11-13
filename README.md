@@ -46,7 +46,14 @@ __How much forest cover loss and gain has occurred in your protected area?__
 
 # Introduction
 
-_*Introduce the reader to your park and research questions that you are testing during this challenge in 200 words or fewer. You can include a few references if you would like.*_
+_*Of Australia’s many pink lakes most are found in WA. The pink colour is attributed to high salinity where rare microbes produce red pigments to protect from sunlight. The salt composition of the pink lakes is very temperamental and can change with rainfall, climate change and over extraction of salt. Salt lakes have surprising biodiversity and are known for producing organisms with great resilience to environmental change because of harsh conditions. 
+
+However, organisms are still at risk with one of the greatest threats being forest loss.  Since 2001, WA has lost 2.4 million hectares of tree coverage. As the region continues to experience record breaking summers and dry conditions, areas could face a forest collapse where trees and shrubs dry out and die, leading to serious and widespread implications to surrounding ecosystems. The "drying trend" has been ongoing since the 1970s with the first global forest collapse occurring in 2010/11, though this was confined to norther parts of the area. 
+
+Therefore, the following research questions will be posed to investigate the loss. 
+- How has net forest coverage changed over time?
+- What years did the region experience the most loss?
+- How can current data trend predict future loss?*_
 
 
 # Workflow
